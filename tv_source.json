@@ -1,5 +1,29 @@
 [
     {
+        "fullname":"2022年科幻悬疑《西部世界 第四季》",
+        "name":"西部世界 第四季",
+        "pic_url":"https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2874119367.jpg",
+        "detail":"故事设定在未来世界，在一个庞大的高科技成人主题乐园中，有着拟真人的机器“接待员”能让游客享尽情欲、暴力等欲望的放纵，主要叙述被称为“西部世界”的未来主题公园。它提供给游客杀戮与性欲的满足。但是在这世界下，各种暗流涌动。部分机器人出现自我觉醒，发现了自己只是作为故事角色的存在，并且想摆脱乐园对其的控制；乐园的管理层害怕乐园的创造者控制着乐园的一切而试图夺其控制权，而乐园创造者则不会善罢甘休并且探寻其伙伴创造者曾经留下的谜团；而买下乐园的一名高管试图重新发现当年的旅程留下的谜团。第四季将讲述一群机器人，在偏离程序员所设计的剧本后所发生的一些异常行为的故事。",
+        "show":[
+            {   
+                "series":"第一集至第四集",
+                "link":"magnet:?xt=urn:btih:d1cf952bbbe41fc0c42d92b42c546ff343b23e80"
+            },
+            {
+                "series":"第五集",
+                "link":"magnet:?xt=urn:btih:1c2e91ee58fcb230acc18cca62aa81bb56a5e9d2"
+            },
+            {
+                "series":"第六集",
+                "link":"magnet:?xt=urn:btih:a684a80d4a1e365b844bf285a86d82ef6c99a8bd"
+            },
+            {
+                "series":"第七集",
+                "link":"magnet:?xt=urn:btih:2d8a58d33b5de5083dfde04c36ae30efea768198"
+            }
+        ]
+    },
+    {
         "fullname":"2022年冒险动作《月光骑士 第一季》",
         "name":"月光骑士",
         "pic_url":"https://img9.doubanio.com/view/photo/l_ratio_poster/public/p2869517753.jpg",
